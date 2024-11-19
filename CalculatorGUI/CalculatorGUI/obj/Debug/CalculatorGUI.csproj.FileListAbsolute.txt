@@ -1,0 +1,10 @@
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe.config
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.exe
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\bin\Debug\CalculatorGUI.pdb
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.AssemblyReference.cache
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Calcu.resources
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.Properties.Resources.resources
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.GenerateResource.cache
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.csproj.CoreCompileInputs.cache
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.exe
+C:\Users\f.lafata\source\repos\CalculatorGUI\CalculatorGUI\obj\Debug\CalculatorGUI.pdb

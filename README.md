@@ -57,9 +57,3 @@ Aplikace umožňuje provádět základní matematické operace, jako jsou:
     Vstup: 12 a 8
     Operace: +
     Výsledek: 20
-
----
-
-## 📄 Licence
-
-Tento projekt je dostupný pod licencí MIT. Podrobnosti naleznete v souboru LICENSE.

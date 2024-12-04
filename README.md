@@ -1,51 +1,65 @@
-CalculatorGUI
+# CalculatorGUI
 
-CalculatorGUI je jednoduchá kalkulačka vytvořená v C# pomocí WinForms. Aplikace umožňuje provádět základní matematické operace, jako jsou sčítání, odčítání, násobení a dělení.
-Funkce
+**CalculatorGUI** je jednoduchá kalkulačka vytvořená v C# pomocí WinForms.  
+Aplikace umožňuje provádět základní matematické operace, jako jsou:
 
-    Základní matematické operace:
-        Sčítání
-        Odčítání
-        Násobení
-        Dělení
-    Uživatelské rozhraní:
-        Přehledné GUI usnadňující ovládání.
-    Validace vstupů:
-        Zobrazení chybové zprávy při neplatném vstupu (např. dělení nulou).
+- Sčítání
+- Odčítání
+- Násobení
+- Dělení
 
-Požadavky
+---
 
-    Operační systém: Windows
-    .NET Framework: Verze 4.7.2 nebo novější
-    Vývojové prostředí: Visual Studio 2022 (doporučeno)
+## 🎯 Funkce
 
-Instalace a spuštění
+- **Základní matematické operace**  
+  Provádí sčítání, odčítání, násobení a dělení.
+- **Uživatelské rozhraní**  
+  Přehledné GUI, které usnadňuje ovládání.
+- **Validace vstupů**  
+  Zobrazení chybové zprávy při neplatném vstupu (např. dělení nulou).
 
-    Stažení projektu: Stáhni si repozitář zde.
+---
+
+## 📋 Požadavky
+
+- **Operační systém:** Windows
+- **.NET Framework:** Verze 4.7.2 nebo novější
+- **Vývojové prostředí:** Visual Studio 2022 (doporučeno)
+
+---
+
+## 🚀 Instalace a spuštění
+
+1. **Stažení projektu:**  
+   Stáhni si repozitář kliknutím na tlačítko **Code** → **Download ZIP** nebo naklonuj repozitář:
+   ```bash
+   git clone https://github.com/uzivatel/calculatorGUI.git
     Otevření projektu:
-        Otevři řešení CalculatorGUI.sln ve Visual Studiu.
+    Otevři řešení CalculatorGUI.sln ve Visual Studiu.
+
     Sestavení a spuštění:
         Klikni na Build → Build Solution (Ctrl + Shift + B).
         Spusť aplikaci stisknutím F5.
 
-Použití
+---
+
+##🧑‍💻 Použití
 
     Zadej dvě čísla do vstupních polí.
     Vyber požadovanou operaci kliknutím na odpovídající tlačítko (+, -, *, /).
     Výsledek se zobrazí ve výstupním poli.
 
-Příklad
+---
 
-    Zadej 12 a 8.
-    Klikni na tlačítko +.
-    Výsledek: 20.
+## Příklad
 
-Ukázka obrazovky
+    Vstup: 12 a 8
+    Operace: +
+    Výsledek: 20
 
-(Zde vlož obrázek aplikace, pokud jej máš)
-Autor
+---
 
-Tuto aplikaci vytvořil Filip jako součást procvičování C# a WinForms.
-Licence
+## 📄 Licence
 
-Tento projekt je k dispozici pod licencí MIT. Podrobnosti naleznete v souboru LICENSE.
+Tento projekt je dostupný pod licencí MIT. Podrobnosti naleznete v souboru LICENSE.

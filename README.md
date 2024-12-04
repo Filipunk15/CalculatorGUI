@@ -62,4 +62,6 @@ Aplikace umožňuje provádět základní matematické operace, jako jsou:
 
 ## 🎉 Díky za použití! Pokud se ti projekt líbí, zvaž ⭐️ hvězdičku na GitHubu.
 
+---
+
 

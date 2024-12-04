@@ -57,3 +57,9 @@ Aplikace umožňuje provádět základní matematické operace, jako jsou:
     Vstup: 12 a 8
     Operace: +
     Výsledek: 20
+
+---
+
+## 🎉 Díky za použití! Pokud se ti projekt líbí, zvaž ⭐️ hvězdičku na GitHubu.
+
+
